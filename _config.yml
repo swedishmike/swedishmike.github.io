@@ -32,6 +32,8 @@ github_username:  swedishmike
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
