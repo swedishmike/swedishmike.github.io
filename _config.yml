@@ -27,8 +27,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.swedishmike.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: swedishmike
 github_username:  swedishmike
+
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-178774549-1 # out your google-analytics code
+google_analytics: UA-178774549-1 # out your google-analytics code
+
 # Build settings
 theme: jekyll-theme-clean-blog
 markdown:           kramdown
