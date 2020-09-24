@@ -40,6 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll_picture_tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
