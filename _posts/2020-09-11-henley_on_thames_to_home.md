@@ -23,3 +23,4 @@ background: '/img/2020/09/henley_on_thames_to_home/henley_to_home_00.png'
 <img src="/img/2020/09/henley_on_thames_to_home/henley_to_home_15.jpg" width="auto" width="100%"/>
 <img src="/img/2020/09/henley_on_thames_to_home/henley_to_home_16.jpg" width="auto" width="100%"/>
 <img src="/img/2020/09/henley_on_thames_to_home/henley_to_home_17.jpg" width="auto" width="100%"/>
+*This is either the worlds saddest playground or the flytipping efforts of someone getting rid of toys and other kid-related stuff*
