@@ -3,6 +3,7 @@ layout: post
 title: "I did not set out to walk close to 40km"
 subtitle: "..it sort of just happened"
 tags: walk photos
+background: '/img/2020/09/sort_of_a_loop/sort_of_a_loop_00.png'
 ---
 At the end of the day I covered close to 40km. That wasn't really the plan when I set out - but it turned out that way in the end.
 
